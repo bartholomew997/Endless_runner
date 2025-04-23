@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Obstacle
+  - Barrel
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mountain
+    uniqueID: 3457585605
+    locked: 0
+  - name: Background
+    uniqueID: 640059109
+    locked: 0
+  - name: Cloud
+    uniqueID: 1175963415
+    locked: 0
+  - name: Jungle
+    uniqueID: 2168026275
+    locked: 0
+  - name: Tile
+    uniqueID: 2311770501
+    locked: 0
+  - name: Stone
+    uniqueID: 2359731659
+    locked: 0
+  - name: Player
+    uniqueID: 234563451
+    locked: 0
+  - name: Barrel
+    uniqueID: 4123737839
+    locked: 0
